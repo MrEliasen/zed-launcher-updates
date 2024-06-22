@@ -4,6 +4,12 @@
         "resource.ini": "ebdd70dd98c477dd"
     },
     "subfolders": {
+        "ads": {
+            "files": {
+                "languagedata_en.loc": "ac63c55fedc9dae6"
+            },
+            "subfolders": {}
+        },
         "gamecommondata": {
             "files": {},
             "subfolders": {
