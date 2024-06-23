@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0",
-    "notes": "Add game patcher",
+    "version": "1.1.1",
+    "notes": "Fix play button disappearing",
     "url": "https://zuluechodelta.ams3.digitaloceanspaces.com/launcher/launcher_latest.exe"
 }
