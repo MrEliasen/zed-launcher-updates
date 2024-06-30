@@ -1,5 +1,5 @@
 {
-    "version": "1.1.2",
-    "notes": "Fix play button disappearing",
+    "version": "1.2.0",
+    "notes": "Add auto update check every 60s",
     "url": "https://zuluechodelta.ams3.digitaloceanspaces.com/launcher/launcher_latest.exe"
 }
